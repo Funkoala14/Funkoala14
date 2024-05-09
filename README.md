@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susie</h1>
-- 🔭 I’m currently working on [BonCamel Inc.](https://thenovibox.com/)
+
+-   🔭 I’m currently working on [BonCamel Inc.](https://thenovibox.com/)
 
 -   📫 How to reach me **susieshi717@gmail.com**
 
