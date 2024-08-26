@@ -8,6 +8,11 @@
 
 I am a Front end Developer with 2+ years of experience in developing enterprise applications.
 
+##### Projects I'm working currently
+- [Novibox Shopify Website](https://thenovibox.com/)
+
+<hr>
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/sishi8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sishi8080" height="30" width="40" /></a>
