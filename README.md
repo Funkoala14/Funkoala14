@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Susie</h1>
 
--   🔭 I’m currently working on [BonCamel Inc.](https://thenovibox.com/)
+-   🔭 I’m currently working on NESN
 
 -   📫 How to reach me **susieshi717@gmail.com**
   
 ### ✨&nbsp; About Me
 
-I am a Front end Developer with 2+ years of experience in developing enterprise applications.
+I am a Full Stack Developer with 4+ years of experience in developing enterprise applications.
 
-##### Projects I'm working currently
+##### Projects I'm worked with
+- [NESN.com](https://nesn.com/)
 - [Novibox Shopify Website](https://thenovibox.com/)
 
 <hr>
