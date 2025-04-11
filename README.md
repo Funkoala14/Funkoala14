@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susie</h1>
 
--   🔭 I’m currently working on NESN
+-   🔭 I’m currently working on UMass Lowell
 
 -   📫 How to reach me **susieshi717@gmail.com**
   
@@ -8,7 +8,7 @@
 
 I am a Full Stack Developer with 4+ years of experience in developing enterprise applications.
 
-##### Projects I'm worked with
+##### Projects I worked with
 - [NESN.com](https://nesn.com/)
 - [Novibox Shopify Website](https://thenovibox.com/)
 
